@@ -1,3 +1,4 @@
 # Table of contents
 
-* [01. Uvod u projekat](README.md)
+* [README](README.md)
+* [01. Uvod u projekat](<README (1).md>)
