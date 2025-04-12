@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [README](README.md)
+* [01. Uvod u projekat](01.-uvod-u-projekat.md)
